@@ -8,14 +8,19 @@
 #### 四個#號
 
 * 一個星號
-** 兩個星號
-*** 三個星號
+* 兩個星號,好像只能用一個星號，文字前加一個星號表示斜體字
+* 三個星號
 
 連接樣式：
+
 [told me](https://github.com/buunguyen/octotree/issues/265)
+
 [instructions](#access-token)
+
 ![Settings](docs/settings.jpg)
+
 ![Octotree on GitHub](docs/chrome-github.jpg)
+
 
 ## Octotree
 Browser extension (Chrome, Firefox, Opera and Safari) to show a code tree on GitHub. Awesome for exploring project source without having to pull every single repository to your machine. Features:
