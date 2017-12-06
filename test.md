@@ -7,9 +7,15 @@
 ### 三個#號
 #### 四個#號
 
-* 一個*號
-** 兩個*號
-*** 三個*號
+* 一個星號
+** 兩個星號
+*** 三個星號
+
+連接樣式：
+[told me](https://github.com/buunguyen/octotree/issues/265)
+[instructions](#access-token)
+![Settings](docs/settings.jpg)
+![Octotree on GitHub](docs/chrome-github.jpg)
 
 ## Octotree
 Browser extension (Chrome, Firefox, Opera and Safari) to show a code tree on GitHub. Awesome for exploring project source without having to pull every single repository to your machine. Features:
@@ -96,65 +102,14 @@ Support us with a monthly donation and help us continue our activities. [[Become
 <a href="https://opencollective.com/octotree/backer/0/website" target="_blank"><img src="https://opencollective.com/octotree/backer/0/avatar.svg"></a>
 <a href="https://opencollective.com/octotree/backer/1/website" target="_blank"><img src="https://opencollective.com/octotree/backer/1/avatar.svg"></a>
 <a href="https://opencollective.com/octotree/backer/2/website" target="_blank"><img src="https://opencollective.com/octotree/backer/2/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/3/website" target="_blank"><img src="https://opencollective.com/octotree/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/4/website" target="_blank"><img src="https://opencollective.com/octotree/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/5/website" target="_blank"><img src="https://opencollective.com/octotree/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/6/website" target="_blank"><img src="https://opencollective.com/octotree/backer/6/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/7/website" target="_blank"><img src="https://opencollective.com/octotree/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/8/website" target="_blank"><img src="https://opencollective.com/octotree/backer/8/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/9/website" target="_blank"><img src="https://opencollective.com/octotree/backer/9/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/10/website" target="_blank"><img src="https://opencollective.com/octotree/backer/10/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/11/website" target="_blank"><img src="https://opencollective.com/octotree/backer/11/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/12/website" target="_blank"><img src="https://opencollective.com/octotree/backer/12/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/13/website" target="_blank"><img src="https://opencollective.com/octotree/backer/13/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/14/website" target="_blank"><img src="https://opencollective.com/octotree/backer/14/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/15/website" target="_blank"><img src="https://opencollective.com/octotree/backer/15/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/16/website" target="_blank"><img src="https://opencollective.com/octotree/backer/16/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/17/website" target="_blank"><img src="https://opencollective.com/octotree/backer/17/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/18/website" target="_blank"><img src="https://opencollective.com/octotree/backer/18/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/19/website" target="_blank"><img src="https://opencollective.com/octotree/backer/19/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/20/website" target="_blank"><img src="https://opencollective.com/octotree/backer/20/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/21/website" target="_blank"><img src="https://opencollective.com/octotree/backer/21/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/22/website" target="_blank"><img src="https://opencollective.com/octotree/backer/22/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/23/website" target="_blank"><img src="https://opencollective.com/octotree/backer/23/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/24/website" target="_blank"><img src="https://opencollective.com/octotree/backer/24/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/25/website" target="_blank"><img src="https://opencollective.com/octotree/backer/25/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/26/website" target="_blank"><img src="https://opencollective.com/octotree/backer/26/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/27/website" target="_blank"><img src="https://opencollective.com/octotree/backer/27/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/28/website" target="_blank"><img src="https://opencollective.com/octotree/backer/28/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/backer/29/website" target="_blank"><img src="https://opencollective.com/octotree/backer/29/avatar.svg"></a>
+
 
 ## Sponsors
 
 Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/octotree#sponsor)]
 
-<a href="https://opencollective.com/octotree/sponsor/0/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/0/avatar.svg"></a>
+圖片連接:<a href="https://opencollective.com/octotree/sponsor/0/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/0/avatar.svg"></a>
 <a href="https://opencollective.com/octotree/sponsor/1/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/1/avatar.svg"></a>
 <a href="https://opencollective.com/octotree/sponsor/2/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/2/avatar.svg"></a>
 <a href="https://opencollective.com/octotree/sponsor/3/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/4/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/5/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/6/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/7/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/8/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/9/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/9/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/10/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/10/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/11/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/11/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/12/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/12/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/13/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/13/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/14/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/14/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/15/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/15/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/16/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/16/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/17/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/17/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/18/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/18/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/19/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/19/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/20/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/20/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/21/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/21/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/22/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/22/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/23/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/23/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/24/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/24/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/25/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/25/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/26/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/26/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/27/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/27/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/28/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/28/avatar.svg"></a>
-<a href="https://opencollective.com/octotree/sponsor/29/website" target="_blank"><img src="https://opencollective.com/octotree/sponsor/29/avatar.svg"></a>
+
